@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdelghafor-az
 - 👀 I’m interested in Web devolepment
-- 🌱 I’m currently learning computer science , I'm taking CS50 Introduction to computer science course on edX.
-- 💞️ I’m looking to collaborate on a project of a website that will help university students (CP1, CP2) in their modules a lot.
+- 🌱 I’m currently learning the ML-Specialtion offered by Stanford and DeepLearningAI on coursera.
+- 💞️ I’m looking in the future to collaborate on an NLP project of ...
 - 📫 How to reach me : abdelghaforelgharbaoui@gmail.com
 
 <!---
