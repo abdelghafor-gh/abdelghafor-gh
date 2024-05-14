@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **patent analysis app**
 
-- 🌱 I’m currently learning **Deep Learning (NLP - Computer Vision - LLMs) and - Spring Framework (Web - Security - JPA)**
+- 🌱 I’m currently learning **Deep Learning (NLP - Computer Vision - LLMs) **&** Spring Framework (Web - Security - JPA)**
 
 - 🤝 I’m looking to collaborate on **NLP projects for the Arabic language**
 
