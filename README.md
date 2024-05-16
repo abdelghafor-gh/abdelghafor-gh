@@ -13,7 +13,7 @@
 
 - 📝 I'm regularly trying to write informative posts on my *LinkedIn*
 
-- 🎓 Explore my CV to learn more about my qualifications and experience: [CV](https://github.com/Abdelghafor-az/Abdelghafor-az/blob/main/CV.pdf)
+- 💼 Explore my CV to learn more about my qualifications and experience: [CV](https://github.com/Abdelghafor-az/Abdelghafor-az/blob/main/CV.pdf)
 
 - 📫 How to reach me **abdelghaforelgharaboui@gmail.com**
 
