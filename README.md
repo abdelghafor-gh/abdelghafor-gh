@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelghafor-az&label=Profile%20views&color=0e75b6&style=flat" alt="abdelghafor-az" /> </p>
 
-- 🔭 I’m currently working on **patent analysis app**
+- 🔭 I’m currently working on a **patent analysis app**, especially patents related to "AI in Education"
 
 - 🌱 I’m currently learning **Deep Learning (NLP - Computer Vision - LLMs) **&** Spring Framework (Web - Security - JPA)**
 
 - 🤝 I’m looking to collaborate on **NLP projects for the Arabic language**
 
-- 👀 I’m interested in building Data Pipelines, Big Data infrastructures and building next-generation apps powered by generative AI
+- 👀 I’m interested in building Data Pipelines, Big Data infrastructures and next-generation apps powered by generative AI
 
 - 📝 I'm regularly trying to write informative posts on my *LinkedIn*
+
+- 🎓 Explore my CV to learn more about my qualifications and experience: [CV](https://github.com/Abdelghafor-az/Abdelghafor-az/blob/main/CV.pdf)
 
 - 📫 How to reach me **abdelghaforelgharaboui@gmail.com**
 
