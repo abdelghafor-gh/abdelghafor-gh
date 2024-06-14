@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking to collaborate on **NLP projects for the Arabic language**
 
-- 👀 I’m interested in building Data Pipelines, Big Data infrastructures and building next-generation apps powered by generative AI
+- 👀 I’m interested in building Data Pipelines, Big Data infrastructures and next-generation apps powered by generative AI
 
 - 📝 I'm regularly trying to write informative posts on my *LinkedIn*
 
