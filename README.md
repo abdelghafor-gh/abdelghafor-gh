@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelghafor-az&label=Profile%20views&color=0e75b6&style=flat" alt="abdelghafor-az" /> </p>
 
-- 🔭 I’m currently working on **patent analysis app**
+- 🔭 I’m currently working on **E-commerce spring microservices app**
 
-- 🌱 I’m currently learning **Deep Learning (NLP - Computer Vision - LLMs) **&** Spring Framework (Web - Security - JPA)**
+- 🌱 I’m currently learning **Data Engineering Industry tools through projects** & **Spring Framework**
 
 - 🤝 I’m looking to collaborate on **NLP projects for the Arabic language**
 
