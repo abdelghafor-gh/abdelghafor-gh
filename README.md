@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **E-commerce spring microservices app**
 
-- 🌱 I’m currently learning **Data Engineering Industry tools through projects** & **Spring Framework**
+- 🌱 I’m currently learning **Data Engineering Industry tools through projects** & **Spring Framework**.
 
-- 🤝 I’m looking to collaborate on **NLP projects for the Arabic language**
+- 🤝 I’m love to collaborate on **NLP projects for the Arabic language**.
 
-- 👀 I’m interested in building Data Pipelines, Big Data infrastructures and next-generation apps powered by generative AI
+- 👀 I’m interested in building Data Pipelines, Big Data infrastructures and next-generation apps powered by generative AI.
 
-- 📝 I'm regularly trying to write informative posts on my *LinkedIn*
+- 📝 I'm trying to start writing informative posts on my *Medium Account* & *LinkedIn*.
 
 - 📫 How to reach me **abdelghaforelgharaboui@gmail.com**
 
